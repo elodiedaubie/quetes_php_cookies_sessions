@@ -1,5 +1,4 @@
 <?php
-
 $catalog = [
     46 => [
         'name' => 'Pecan nuts',
